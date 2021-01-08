@@ -1,0 +1,153 @@
+db.Flask_youtube_tutotials.insertMany([
+{"Name" : "Flask Tutorial - Introduction" , "Duration (mins)"  : 3.23 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Introduction to HTTP - Hypertex" , "Duration (mins)"  : 6.9 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 00 - Setup and Running app" , "Duration (mins)"  : 3.97 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 01 - Our first Flask Webap" , "Duration (mins)"  : 3.97 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 02 - Returning HTML from o" , "Duration (mins)"  : 6.3 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 03 - Working with Flask/Ji" , "Duration (mins)"  : 5.47 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 04 - Moving Flask/Jinja te" , "Duration (mins)"  : 4.75 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 05 - Basic Routing in Flas" , "Duration (mins)"  : 6.35 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 06 - Raising Custom Errors" , "Duration (mins)"  : 10.13 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 07 - The Flask Request" , "Duration (mins)"  : 4.77 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 08 - Flask Redirects (301," , "Duration (mins)"  : 3.53 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 09 - Plugging our first Da" , "Duration (mins)"  : 5.18 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 10 - Advanced Flask and Ji" , "Duration (mins)"  : 3.08 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 11 - Flask's before_reques" , "Duration (mins)"  : 3.78 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 12 - Using SQL JOIN in our" , "Duration (mins)"  : 2.9 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 13 - Working with Forms in" , "Duration (mins)"  : 5.53 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 14 - Working with Static F" , "Duration (mins)"  : 4.58 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 15 - Template Inheritance" , "Duration (mins)"  : 4.08 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Bonus - Real Class Example - Ba" , "Duration (mins)"  : 8.23 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Bonus - Real Class Example - Wo" , "Duration (mins)"  : 18.52 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ])
+
+
+
+
+insertOne({"Name" : "Flask Tutorial - Introduction" , "Duration (mins)"  : 3.23 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}})
+
+
+insertOne(video:[{"Name" : "Flask Tutorial - Introduction" , "Duration (mins)"  : 3.23 } ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}])
+
+
+db“ : “Step 00 - Setup and Running app“ , “Duration (mins)“  : 3.97  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“.Flask_youtube_tutotials.insertMany([
+{“Name“ : “Introduction to HTTP - Hypertex“ , “Duration (mins)“  : 6.9  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“NameName“ : “Step 01 - Our first Flask Webap“ , “Duration (mins)“  : 3.97  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Step 02 - Returning HTML from o“ , “Duration (mins)“  : 6.3  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Step 03 - Working with Flask/Ji“ , “Duration (mins)“  : 5.47  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Step 04 - Moving Flask/Jinja te“ , “Duration (mins)“  : 4.75  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Step 05 - Basic Routing in Flas“ , “Duration (mins)“  : 6.35  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Step 06 - Raising Custom Errors“ , “Duration (mins)“  : 10.13  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Step 07 - The Flask Request“ , “Duration (mins)“  : 4.77  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Step 08 - Flask Redirects (301,“ , “Duration (mins)“  : 3.53  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Step 09 - Plugging our first Da“ , “Duration (mins)“  : 5.18  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Step 10 - Advanced Flask and Ji“ , “Duration (mins)“  : 3.08  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Step 11 - Flask's before_reques“ , “Duration (mins)“  : 3.78  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Step 12 - Using SQL JOIN in our“ , “Duration (mins)“  : 2.9  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Step 13 - Working with Forms in“ , “Duration (mins)“  : 5.53} ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Step 14 - Working with Static F“ , “Duration (mins)“  : 4.58 ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Step 15 - Template Inheritance“ , “Duration (mins)“  : 4.08  ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Bonus - Real Class Example - Ba“ , “Duration (mins)“  : 8.23} ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}} ,
+{“Name“ : “Bonus - Real Class Example - Wo“ , “Duration (mins)“  : 18.52} ,“Completion Status“ : {  “Completed“ : “No“ , “WIP“ : “No“ , “Not Started“ : “No“}}])
+
+
+
+
+
+db.Flask_youtube_tutotials.insertMany([{"Name" : "Introduction to HTTP - Hypertex" , "Duration (mins)"  : 6.9  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 00 - Setup and Running app" , "Duration (mins)"  : 3.97  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 01 - Our first Flask Webap" , "Duration (mins)"  : 3.97  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 02 - Returning HTML from o" , "Duration (mins)"  : 6.3  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 03 - Working with Flask/Ji" , "Duration (mins)"  : 5.47  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 04 - Moving Flask/Jinja te" , "Duration (mins)"  : 4.75  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 05 - Basic Routing in Flas" , "Duration (mins)"  : 6.35  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 06 - Raising Custom Errors" , "Duration (mins)"  : 10.13  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 07 - The Flask Request" , "Duration (mins)"  : 4.77  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 08 - Flask Redirects (301," , "Duration (mins)"  : 3.53  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 09 - Plugging our first Da" , "Duration (mins)"  : 5.18  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 10 - Advanced Flask and Ji" , "Duration (mins)"  : 3.08  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 11 - Flask's before_reques" , "Duration (mins)"  : 3.78  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 12 - Using SQL JOIN in our" , "Duration (mins)"  : 2.9  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 13 - Working with Forms in" , "Duration (mins)"  : 5.53} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 14 - Working with Static F" , "Duration (mins)"  : 4.58 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 15 - Template Inheritance" , "Duration (mins)"  : 4.08  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Bonus - Real Class Example - Ba" , "Duration (mins)"  : 8.23} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Bonus - Real Class Example - Wo" , "Duration (mins)"  : 18.52} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}}])
+
+
+ db.Flask_youtube_tutotials.insertOne(
+
+
+
+
+{"Name" : "Flask Tutorial - Introduction" , "Duration (mins)"  : 3.23 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}})
+{
+
+
+
+
+db.Flask_youtube_tutotials.insertOne(){"Name" : "Step 12 - Using SQL JOIN in our" , "Duration (mins)"  : 2.9  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} 
+
+
+
+
+
+db.Flask_youtube_tutotials.insertMany([{"Name" : "Introduction to HTTP - Hypertex" , "Duration (mins)"  : 6.9  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 00 - Setup and Running app" , "Duration (mins)"  : 3.97  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 01 - Our first Flask Webap" , "Duration (mins)"  : 3.97  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ])
+
+
+
+
+db.Flask_youtube_tutotials.insertMany([{"Name" : "Introduction to HTTP - Hypertex" , "Duration (mins)"  : 6.9  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 00 - Setup and Running app" , "Duration (mins)"  : 3.97  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 01 - Our first Flask Webap" , "Duration (mins)"  : 3.97  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 02 - Returning HTML from o" , "Duration (mins)"  : 6.3  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 03 - Working with Flask/Ji" , "Duration (mins)"  : 5.47  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 04 - Moving Flask/Jinja te" , "Duration (mins)"  : 4.75  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 05 - Basic Routing in Flas" , "Duration (mins)"  : 6.35  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 06 - Raising Custom Errors" , "Duration (mins)"  : 10.13  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 07 - The Flask Request" , "Duration (mins)"  : 4.77  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 08 - Flask Redirects (301," , "Duration (mins)"  : 3.53  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 09 - Plugging our first Da" , "Duration (mins)"  : 5.18  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 10 - Advanced Flask and Ji" , "Duration (mins)"  : 3.08  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 11 - Flask's before_reques" , "Duration (mins)"  : 3.78  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 12 - Using SQL JOIN in our" , "Duration (mins)"  : 2.9  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ])
+
+
+
+db.Flask_youtube_tutotials.insertMany([{"Name" : "Step 13 - Working with Forms in" , "Duration (mins)"  : 5.53 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 14 - Working with Static F" , "Duration (mins)"  : 4.58 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Step 15 - Template Inheritance" , "Duration (mins)"  : 4.08  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Bonus - Real Class Example - Ba" , "Duration (mins)"  : 8.23 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+{"Name" : "Bonus - Real Class Example - Wo" , "Duration (mins)"  : 18.52 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}}])
+
+/*
+2021-01-08 5:52 am
+
+after long last i finally found the bug in the scrpit that was casing the stoppage at "...Step 12...".
+here was superflous(extra) brackets( ')' and ']' )
+
+*/
+
+
+05:58
+
+I am going to update the completion status
+
+
+db.Flask_youtube_tutotials.updateOne({} , {$set: {"Completion Status.Not Started" : "Yes"}})
+
+
+
+
+
+
+
+
+
+
+
+
+
+

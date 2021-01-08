@@ -1,0 +1,584 @@
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise > db.Flask_youtube_tutotials.insertMany([
+... {"Name" : "Introduction to HTTP - Hypertex" , "Duration (mins)"  : 6.9  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 00 - Setup and Running app" , "Duration (mins)"  : 3.97  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 01 - Our first Flask Webap" , "Duration (mins)"  : 3.97  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 02 - Returning HTML from o" , "Duration (mins)"  : 6.3  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 03 - Working with Flask/Ji" , "Duration (mins)"  : 5.47  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 04 - Moving Flask/Jinja te" , "Duration (mins)"  : 4.75  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 05 - Basic Routing in Flas" , "Duration (mins)"  : 6.35  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 06 - Raising Custom Errors" , "Duration (mins)"  : 10.13  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 07 - The Flask Request" , "Duration (mins)"  : 4.77  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 08 - Flask Redirects (301," , "Duration (mins)"  : 3.53  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 09 - Plugging our first Da" , "Duration (mins)"  : 5.18  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 10 - Advanced Flask and Ji" , "Duration (mins)"  : 3.08  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 11 - Flask's before_reques" , "Duration (mins)"  : 3.78  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 12 - Using SQL JOIN in our" , "Duration (mins)"  : 2.9  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 13 - Working with Forms in" , "Duration (mins)"  : 5.53} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+2021-01-08T05:15:28.950-0400 E  QUERY    [js] uncaught exception: SyntaxError: missing ] after element list :
+@(shell):16:94
+MongoDB Enterprise > {"Name" : "Step 14 - Working with Static F" , "Duration (mins)"  : 4.58 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 15 - Template Inheritance" , "Duration (mins)"  : 4.08  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Bonus - Real Class Example - Ba" , "Duration (mins)"  : 8.23} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+2021-01-08T05:15:29.124-0400 E  QUERY    [js] uncaught exception: SyntaxError: unexpected token: ':' :
+@(shell):1:8
+MongoDB Enterprise > {"Name" : "Bonus - Real Class Example - Wo" , "Duration (mins)"  : 18.52} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}}])
+2021-01-08T05:15:29.171-0400 E  QUERY    [js] uncaught exception: SyntaxError: unexpected token: ':' :
+@(shell):1:8
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise > db.Flask_youtube_tutotials.insertOne({"Name" : "Step 12 - Using SQL JOIN in our" , "Duration (mins)"  : 2.9  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}})
+{
+        "acknowledged" : true,
+        "insertedId" : ObjectId("5ff824271552358491be3105")
+}
+MongoDB Enterprise >
+MongoDB Enterprise > db.Flask_youtube_tutotials.insertMany([{"Name" : "Introduction to HTTP - Hypertex" , "Duration (mins)"  : 6.9  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 00 - Setup and Running app" , "Duration (mins)"  : 3.97  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 01 - Our first Flask Webap" , "Duration (mins)"  : 3.97  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 02 - Returning HTML from o" , "Duration (mins)"  : 6.3  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 03 - Working with Flask/Ji" , "Duration (mins)"  : 5.47  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 04 - Moving Flask/Jinja te" , "Duration (mins)"  : 4.75  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 05 - Basic Routing in Flas" , "Duration (mins)"  : 6.35  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 06 - Raising Custom Errors" , "Duration (mins)"  : 10.13  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 07 - The Flask Request" , "Duration (mins)"  : 4.77  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 08 - Flask Redirects (301," , "Duration (mins)"  : 3.53  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 09 - Plugging our first Da" , "Duration (mins)"  : 5.18  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 10 - Advanced Flask and Ji" , "Duration (mins)"  : 3.08  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 11 - Flask's before_reques" , "Duration (mins)"  : 3.78  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 12 - Using SQL JOIN in our" , "Duration (mins)"  : 2.9  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 13 - Working with Forms in" , "Duration (mins)"  : 5.53} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+2021-01-08T05:23:02.412-0400 E  QUERY    [js] uncaught exception: SyntaxError: missing ] after element list :
+@(shell):15:94
+MongoDB Enterprise > {"Name" : "Step 14 - Working with Static F" , "Duration (mins)"  : 4.58 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 15 - Template Inheritance" , "Duration (mins)"  : 4.08  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Bonus - Real Class Example - Ba" , "Duration (mins)"  : 8.23} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+2021-01-08T05:23:02.563-0400 E  QUERY    [js] uncaught exception: SyntaxError: unexpected token: ':' :
+@(shell):1:8
+MongoDB Enterprise > {"Name" : "Bonus - Real Class Example - Wo" , "Duration (mins)"  : 18.52} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}}])
+2021-01-08T05:23:02.599-0400 E  QUERY    [js] uncaught exception: SyntaxError: unexpected token: ':' :
+@(shell):1:8
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise > db.Flask_youtube_tutotials.insertMany([{"Name" : "Introduction to HTTP - Hypertex" , "Duration (mins)"  : 6.9  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 00 - Setup and Running app" , "Duration (mins)"  : 3.97  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 01 - Our first Flask Webap" , "Duration (mins)"  : 3.97  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ])
+{
+        "acknowledged" : true,
+        "insertedIds" : [
+                ObjectId("5ff8295f1552358491be3106"),
+                ObjectId("5ff8295f1552358491be3107"),
+                ObjectId("5ff8295f1552358491be3108")
+        ]
+}
+MongoDB Enterprise > db.Flask_youtube_tutotials.remove({})
+WriteResult({ "nRemoved" : 5 })
+MongoDB Enterprise >
+MongoDB Enterprise > db.Flask_youtube_tutotials.insertMany([{"Name" : "Introduction to HTTP - Hypertex" , "Duration (mins)"  : 6.9  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 00 - Setup and Running app" , "Duration (mins)"  : 3.97  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 01 - Our first Flask Webap" , "Duration (mins)"  : 3.97  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 02 - Returning HTML from o" , "Duration (mins)"  : 6.3  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 03 - Working with Flask/Ji" , "Duration (mins)"  : 5.47  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 04 - Moving Flask/Jinja te" , "Duration (mins)"  : 4.75  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 05 - Basic Routing in Flas" , "Duration (mins)"  : 6.35  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 06 - Raising Custom Errors" , "Duration (mins)"  : 10.13  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 07 - The Flask Request" , "Duration (mins)"  : 4.77  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 08 - Flask Redirects (301," , "Duration (mins)"  : 3.53  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 09 - Plugging our first Da" , "Duration (mins)"  : 5.18  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 10 - Advanced Flask and Ji" , "Duration (mins)"  : 3.08  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 11 - Flask's before_reques" , "Duration (mins)"  : 3.78  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 12 - Using SQL JOIN in our" , "Duration (mins)"  : 2.9  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ])
+{
+        "acknowledged" : true,
+        "insertedIds" : [
+                ObjectId("5ff829d51552358491be3109"),
+                ObjectId("5ff829d51552358491be310a"),
+                ObjectId("5ff829d51552358491be310b"),
+                ObjectId("5ff829d51552358491be310c"),
+                ObjectId("5ff829d51552358491be310d"),
+                ObjectId("5ff829d51552358491be310e"),
+                ObjectId("5ff829d51552358491be310f"),
+                ObjectId("5ff829d51552358491be3110"),
+                ObjectId("5ff829d51552358491be3111"),
+                ObjectId("5ff829d51552358491be3112"),
+                ObjectId("5ff829d51552358491be3113"),
+                ObjectId("5ff829d51552358491be3114"),
+                ObjectId("5ff829d51552358491be3115"),
+                ObjectId("5ff829d51552358491be3116")
+        ]
+}
+MongoDB Enterprise >
+MongoDB Enterprise > db.Flask_youtube_tutotials.insertMany([{"Name" : "Step 13 - Working with Forms in" , "Duration (mins)"  : 5.53} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+2021-01-08T05:47:31.348-0400 E  QUERY    [js] uncaught exception: SyntaxError: missing ] after element list :
+@(shell):1:133
+MongoDB Enterprise > {"Name" : "Step 14 - Working with Static F" , "Duration (mins)"  : 4.58 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 15 - Template Inheritance" , "Duration (mins)"  : 4.08  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Bonus - Real Class Example - Ba" , "Duration (mins)"  : 8.23} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+2021-01-08T05:47:31.461-0400 E  QUERY    [js] uncaught exception: SyntaxError: unexpected token: ':' :
+@(shell):1:8
+MongoDB Enterprise > {"Name" : "Bonus - Real Class Example - Wo" , "Duration (mins)"  : 18.52} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}}])
+2021-01-08T05:47:31.491-0400 E  QUERY    [js] uncaught exception: SyntaxError: unexpected token: ':' :
+@(shell):1:8
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise > db.Flask_youtube_tutotials.insertMany([{"Name" : "Step 13 - Working with Forms in" , "Duration (mins)"  : 5.53 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 14 - Working with Static F" , "Duration (mins)"  : 4.58 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 15 - Template Inheritance" , "Duration (mins)"  : 4.08  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Bonus - Real Class Example - Ba" , "Duration (mins)"  : 8.23} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+2021-01-08T05:48:20.580-0400 E  QUERY    [js] uncaught exception: SyntaxError: missing ] after element list :
+@(shell):4:94
+MongoDB Enterprise > {"Name" : "Bonus - Real Class Example - Wo" , "Duration (mins)"  : 18.52} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}}])
+2021-01-08T05:48:20.614-0400 E  QUERY    [js] uncaught exception: SyntaxError: unexpected token: ':' :
+@(shell):1:8
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise > db.Flask_youtube_tutotials.insertMany([{"Name" : "Step 13 - Working with Forms in" , "Duration (mins)"  : 5.53 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 14 - Working with Static F" , "Duration (mins)"  : 4.58 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 15 - Template Inheritance" , "Duration (mins)"  : 4.08  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Bonus - Real Class Example - Ba" , "Duration (mins)"  : 8.23} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+2021-01-08T05:48:58.148-0400 E  QUERY    [js] uncaught exception: SyntaxError: missing ] after element list :
+@(shell):4:94
+MongoDB Enterprise > {"Name" : "Bonus - Real Class Example - Wo" , "Duration (mins)"  : 18.52} ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}}])
+2021-01-08T05:48:58.216-0400 E  QUERY    [js] uncaught exception: SyntaxError: unexpected token: ':' :
+@(shell):1:8
+MongoDB Enterprise >
+MongoDB Enterprise >
+MongoDB Enterprise > db.Flask_youtube_tutotials.insertMany([{"Name" : "Step 13 - Working with Forms in" , "Duration (mins)"  : 5.53 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 14 - Working with Static F" , "Duration (mins)"  : 4.58 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Step 15 - Template Inheritance" , "Duration (mins)"  : 4.08  ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Bonus - Real Class Example - Ba" , "Duration (mins)"  : 8.23 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}} ,
+... {"Name" : "Bonus - Real Class Example - Wo" , "Duration (mins)"  : 18.52 ,"Completion Status" : {  "Completed" : "No" , "WIP" : "No" , "Not Started" : "No"}}])
+{
+        "acknowledged" : true,
+        "insertedIds" : [
+                ObjectId("5ff82a971552358491be3117"),
+                ObjectId("5ff82a971552358491be3118"),
+                ObjectId("5ff82a971552358491be3119"),
+                ObjectId("5ff82a971552358491be311a"),
+                ObjectId("5ff82a971552358491be311b")
+        ]
+}
+MongoDB Enterprise >
+MongoDB Enterprise >  db.Flask_youtube_tutotials.find({}).pretty()
+{
+        "_id" : ObjectId("5ff829d51552358491be3109"),
+        "Name" : "Introduction to HTTP - Hypertex",
+        "Duration (mins)" : 6.9,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be310a"),
+        "Name" : "Step 00 - Setup and Running app",
+        "Duration (mins)" : 3.97,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be310b"),
+        "Name" : "Step 01 - Our first Flask Webap",
+        "Duration (mins)" : 3.97,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be310c"),
+        "Name" : "Step 02 - Returning HTML from o",
+        "Duration (mins)" : 6.3,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be310d"),
+        "Name" : "Step 03 - Working with Flask/Ji",
+        "Duration (mins)" : 5.47,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be310e"),
+        "Name" : "Step 04 - Moving Flask/Jinja te",
+        "Duration (mins)" : 4.75,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be310f"),
+        "Name" : "Step 05 - Basic Routing in Flas",
+        "Duration (mins)" : 6.35,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be3110"),
+        "Name" : "Step 06 - Raising Custom Errors",
+        "Duration (mins)" : 10.13,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be3111"),
+        "Name" : "Step 07 - The Flask Request",
+        "Duration (mins)" : 4.77,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be3112"),
+        "Name" : "Step 08 - Flask Redirects (301,",
+        "Duration (mins)" : 3.53,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be3113"),
+        "Name" : "Step 09 - Plugging our first Da",
+        "Duration (mins)" : 5.18,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be3114"),
+        "Name" : "Step 10 - Advanced Flask and Ji",
+        "Duration (mins)" : 3.08,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be3115"),
+        "Name" : "Step 11 - Flask's before_reques",
+        "Duration (mins)" : 3.78,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be3116"),
+        "Name" : "Step 12 - Using SQL JOIN in our",
+        "Duration (mins)" : 2.9,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff82a971552358491be3117"),
+        "Name" : "Step 13 - Working with Forms in",
+        "Duration (mins)" : 5.53,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff82a971552358491be3118"),
+        "Name" : "Step 14 - Working with Static F",
+        "Duration (mins)" : 4.58,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff82a971552358491be3119"),
+        "Name" : "Step 15 - Template Inheritance",
+        "Duration (mins)" : 4.08,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff82a971552358491be311a"),
+        "Name" : "Bonus - Real Class Example - Ba",
+        "Duration (mins)" : 8.23,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+{
+        "_id" : ObjectId("5ff82a971552358491be311b"),
+        "Name" : "Bonus - Real Class Example - Wo",
+        "Duration (mins)" : 18.52,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "No"
+        }
+}
+MongoDB Enterprise > db.Flask_youtube_tutotials.updateOne({} , {$set: {"Completion Status.Not Started" : "Yes"}})
+{ "acknowledged" : true, "matchedCount" : 1, "modifiedCount" : 1 }
+MongoDB Enterprise > db.Flask_youtube_tutotials.findOne()
+{
+        "_id" : ObjectId("5ff829d51552358491be3109"),
+        "Name" : "Introduction to HTTP - Hypertex",
+        "Duration (mins)" : 6.9,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+MongoDB Enterprise > db.Flask_youtube_tutotials.updateOne({"Name": {$ne: "Introduction to HTTP - Hypertex"}} , {$set: {"Completion Status.Not Started" : "Yes"}})
+{ "acknowledged" : true, "matchedCount" : 1, "modifiedCount" : 1 }
+MongoDB Enterprise > db.Flask_youtube_tutotials.updateMany({"Name": {$ne: "Introduction to HTTP - Hypertex"}} , {$set: {"Completion Status.Not Started" : "Yes"}})
+{ "acknowledged" : true, "matchedCount" : 18, "modifiedCount" : 17 }
+MongoDB Enterprise > db.Flask_youtube_tutotials.find({}).pretty()
+{
+        "_id" : ObjectId("5ff829d51552358491be3109"),
+        "Name" : "Introduction to HTTP - Hypertex",
+        "Duration (mins)" : 6.9,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be310a"),
+        "Name" : "Step 00 - Setup and Running app",
+        "Duration (mins)" : 3.97,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be310b"),
+        "Name" : "Step 01 - Our first Flask Webap",
+        "Duration (mins)" : 3.97,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be310c"),
+        "Name" : "Step 02 - Returning HTML from o",
+        "Duration (mins)" : 6.3,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be310d"),
+        "Name" : "Step 03 - Working with Flask/Ji",
+        "Duration (mins)" : 5.47,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be310e"),
+        "Name" : "Step 04 - Moving Flask/Jinja te",
+        "Duration (mins)" : 4.75,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be310f"),
+        "Name" : "Step 05 - Basic Routing in Flas",
+        "Duration (mins)" : 6.35,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be3110"),
+        "Name" : "Step 06 - Raising Custom Errors",
+        "Duration (mins)" : 10.13,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be3111"),
+        "Name" : "Step 07 - The Flask Request",
+        "Duration (mins)" : 4.77,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be3112"),
+        "Name" : "Step 08 - Flask Redirects (301,",
+        "Duration (mins)" : 3.53,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be3113"),
+        "Name" : "Step 09 - Plugging our first Da",
+        "Duration (mins)" : 5.18,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be3114"),
+        "Name" : "Step 10 - Advanced Flask and Ji",
+        "Duration (mins)" : 3.08,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be3115"),
+        "Name" : "Step 11 - Flask's before_reques",
+        "Duration (mins)" : 3.78,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff829d51552358491be3116"),
+        "Name" : "Step 12 - Using SQL JOIN in our",
+        "Duration (mins)" : 2.9,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff82a971552358491be3117"),
+        "Name" : "Step 13 - Working with Forms in",
+        "Duration (mins)" : 5.53,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff82a971552358491be3118"),
+        "Name" : "Step 14 - Working with Static F",
+        "Duration (mins)" : 4.58,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff82a971552358491be3119"),
+        "Name" : "Step 15 - Template Inheritance",
+        "Duration (mins)" : 4.08,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff82a971552358491be311a"),
+        "Name" : "Bonus - Real Class Example - Ba",
+        "Duration (mins)" : 8.23,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+{
+        "_id" : ObjectId("5ff82a971552358491be311b"),
+        "Name" : "Bonus - Real Class Example - Wo",
+        "Duration (mins)" : 18.52,
+        "Completion Status" : {
+                "Completed" : "No",
+                "WIP" : "No",
+                "Not Started" : "Yes"
+        }
+}
+MongoDB Enterprise > db.Flask_youtube_tutotials.updateMany({"Name": {$ne: "Introduction to HTTP - Hypertex"}} , {$set: {"Completion Status.Not Started" : "Yes"}})
+{ "acknowledged" : true, "matchedCount" : 18, "modifiedCount" : 0 }
+MongoDB Enterprise > exit
+bye
+
+C:\Users\radfi>
